@@ -1,1 +1,1 @@
-Deneme adlı repositoride ilgili kodlar bulunmaatadır# WeatherApp
+Deneme adlı repositoride ilgili kodlar bulunmaktadır# WeatherApp
